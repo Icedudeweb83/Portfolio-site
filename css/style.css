@@ -683,6 +683,7 @@ a.btn-mod:focus{
 .btn-extra-large{
     background: -webkit-linear-gradient(#ff0000ff, #ffff00ff);
     border-color: black;
+    border-width: .18rem;
     color: black;
     font-size: 20px;
     height: auto;
