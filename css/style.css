@@ -679,8 +679,19 @@ a.btn-mod:focus{
     height: auto;
     padding: 12px 45px;
     font-size: 13px;
-} 
-
+}
+.btn-extra-large{
+    background: -webkit-linear-gradient(#ff0000ff, #ffff00ff);
+    border-color: black;
+    color: black;
+    font-size: 20px;
+    height: auto;
+    margin: 2rem;
+    opacity: 0.9;
+    padding: 8px 37px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
 .btn-mod.btn-glass{
     color: rgba(255,255,255, .75);
     background: rgba(0,0,0, .40);
@@ -1143,7 +1154,7 @@ a.btn-mod-2:focus{
     height: 37px;
     padding-left: 13px;
     padding-right: 13px;
-    font-size: 12px;
+    font-size: 16px;
 }
 .form input[type="text"].input-sm,
 .form input[type="email"].input-sm,
@@ -1160,7 +1171,7 @@ a.btn-mod-2:focus{
     padding-right: 10px;
 }
 .form textarea{
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     text-transform: none !important;
     letter-spacing: 1px;
@@ -1210,7 +1221,7 @@ a.btn-mod-2:focus{
 }
 
 .form-tip{
-    font-size: 11px;
+    font-size: 14px;
     color: #000000;
 }
 .form-tip .fa{
@@ -3447,7 +3458,7 @@ a.logo:hover{
     margin-top: -70px;
 }
 .alt-features-item{
-    margin-top: 20px;
+    margin-top: 75px;
 }
 .alt-features-icon{
     padding-top: 10px;
@@ -3459,7 +3470,7 @@ a.logo:hover{
     width: 100%;
 }
 .alt-features-title{
-    margin-bottom: 21px;
+    margin-bottom: 50px;
     font-family: "Arial", sans-serif;
     font-size: 14px;
     font-weight: 400;
