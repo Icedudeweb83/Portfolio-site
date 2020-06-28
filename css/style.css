@@ -3760,7 +3760,6 @@ a.logo:hover{
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
     line-height: 1.2;
 }
 .work-descr{    
@@ -4046,7 +4045,6 @@ a.logo:hover{
     font-size: 18px;
     font-weight: 300;
     letter-spacing: 0.1em;
-    text-transform: uppercase;
     color: rgba(255,255,255, 0.9);
 }
 
@@ -6504,10 +6502,9 @@ section:hover .small-item-carousel .owl-next{
     margin: 0;
     padding: 15px 20px;
     color: #999;
-    font-size: 14px;
+    font-size: 16px;
     letter-spacing: 2px;
-    font-weight: 400;
-    text-transform: uppercase;
+    font-weight: 400; 
     text-decoration: none;
     cursor: pointer;
     
