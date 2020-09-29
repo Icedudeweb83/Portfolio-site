@@ -399,7 +399,7 @@ h3{
 }
 @media only screen and (max-width: 1024px) {
     h3{
-        padding-right: 1rem;
+        margin-left: 2rem;
     }
 }
 h6{
