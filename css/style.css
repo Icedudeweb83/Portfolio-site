@@ -10,7 +10,7 @@ Primary use: MultiPurpose Template
 
 @import "font-awesome.min.css";
 @import "et-line.css";
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,300,700);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 
 /*------------------------------------------------------------------
@@ -368,7 +368,7 @@ img:not([draggable]), embed, object, video{
 body{
     color: #000000; /* ======formerly #111===== */
     font-size: 14px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     line-height: 1.6;    
     -webkit-font-smoothing: antialiased;
 }
@@ -455,12 +455,12 @@ hr.black{
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     text-transform: none;
     letter-spacing: 0.05em;
 }
 .serif{
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Open Sans', sans-serif;
     font-style: italic;
     font-weight: normal;
 }
@@ -2699,7 +2699,7 @@ a.logo:hover{
     padding: 100px 0; /* ======formerly 140px===== */
 }
 .small-section{
-    margin-bottom: 120px;
+    margin-bottom: 20px;
     padding: 70px 0;
 }
 .small-section-2{
