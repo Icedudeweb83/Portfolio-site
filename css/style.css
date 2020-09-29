@@ -396,6 +396,7 @@ h2{
 }
 h3{
     font-size: 22px;
+    vertical-align: middle;
 }
 h6{
     font-weight: 700;
@@ -3064,11 +3065,6 @@ a.logo:hover{
 @media only screen and (max-width: 1024px) {
     .section-text-3{
         margin-left: 5rem;
-    }
-}
-@media only screen and (max-width: 1024px) {
-    .section-text-4{
-        vertical-align: middle;
     }
 }
 .section-text-2{
