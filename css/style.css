@@ -3065,7 +3065,9 @@ a.logo:hover{
     .section-text-3{
         margin-left: 5rem;
     }
-    .section-text-4{
+}
+@media only screen and (min-width: 550px) {
+    .section-text-3{
         margin-right: 2rem;
     }
 }
