@@ -386,7 +386,6 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 1.3em;
     line-height: 1.4;
     font-weight: 400;
-    letter-spacing: 0em;
    
 }
 h1{
@@ -3064,7 +3063,7 @@ a.logo:hover{
 }
 @media only screen and (max-width: 1024px) {
     .section-text-3{
-        margin-left: 5rem;
+        margin-left: 4rem;
     }
 }
 .section-text-2{
