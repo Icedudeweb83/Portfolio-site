@@ -3061,7 +3061,12 @@ a.logo:hover{
     font-weight: 300;
     line-height: 1.7;
 }
-
+@media only screen and (max-width: 1024px) {
+    .section-text-3{
+        margin-left: 5rem;
+        vertical-align: middle;
+    }
+}
 .section-text-2{
     font-size: 20px; /* ======formerly 16px===== */
     font-weight: 300;
