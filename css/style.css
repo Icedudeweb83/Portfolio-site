@@ -3083,7 +3083,7 @@ a.logo:hover{
 }
 @media only screen and (max-width: 1024px) {
     .section-text-3{
-        margin-left: 5rem;
+        margin-top: 6rem;
     }
 }
 .section-text-2{
@@ -3093,7 +3093,10 @@ a.logo:hover{
 }
 @media only screen and (max-width: 1024px) {
     .section-text-2{
-        margin-top: 8rem;
+        font-size: 20px; /* ======formerly 16px===== */
+        font-weight: 300;
+        line-height: 1.7;
+        margin-top: 6.5rem;
     }
 }
 .section-text-2 blockquote{
@@ -3103,7 +3106,6 @@ a.logo:hover{
     font-size: 20px; /* ======formerly 16px===== */
     font-weight: 300;
     line-height: 1.7;
-    width: 75%; /* ======formerly this line didn't exist at all===== */
 }
 .section-bot-image{
     margin: 140px 0 -140px;
