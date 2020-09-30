@@ -3012,11 +3012,22 @@ a.logo:hover{
 .section-title {
     margin-bottom: 15px;
     font-size: 22px; /* ======formerly 18px===== */
-    font-weight: 200;
+    font-weight: 400;
     text-transform: none;
     text-align: center;
     letter-spacing: 0em;
     line-height: 1.4;
+}
+@media only screen and (max-width: 1024px) {
+    .section-title {
+    margin-bottom: 15px;
+    font-size: 22px; /* ======formerly 18px===== */
+    font-weight: 400;
+    text-transform: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1.4;
+}
 }
 .section-more{
     margin-top: 7px;
