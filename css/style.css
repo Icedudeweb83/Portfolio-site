@@ -3757,7 +3757,7 @@ a.logo:hover{
     margin: 0 0 0 -10px;
 }
 .works-grid.work-grid-gut .work-item{
-    padding: 0 0 40px 40px;
+    padding: 0 0 40px 0px;
 }
 
 .work-item > a{
