@@ -4362,11 +4362,23 @@ a.logo:hover{
 .cf-left-col{
     width: 49.4%;
     float: left;
+    margin-left: 35%;
     margin-right: 1.2%;
 }
 .cf-right-col{
     width: 49.4%;
     float: left;
+    margin-left: 35%;
+}
+@media only screen and (max-width: 1024px) {
+    .cf-left-col{
+    margin-left: 0%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .cf-right-col{
+    margin-left: 0%;
+    }
 }
 .contact-form .form-group{
     margin-bottom: 10px;
