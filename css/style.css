@@ -629,7 +629,7 @@ a.btn-mod{
     font-weight: 400;
     text-transform: uppercase;
     text-decoration: none;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
     
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
@@ -3757,7 +3757,7 @@ a.logo:hover{
     margin: 0 0 0 -10px;
 }
 .works-grid.work-grid-gut .work-item{
-    padding: 0 0 40px 0px;
+    padding: 0 0 40px 15px;
 }
 
 .work-item > a{
@@ -4087,7 +4087,7 @@ a.logo:hover{
     margin-bottom: 20px;
     font-size: 18px;
     font-weight: 300;
-    letter-spacing: 0.1em;
+    letter-spacing: 0em;
     color: rgba(255,255,255, 0.9);
 }
 
