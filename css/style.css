@@ -3096,7 +3096,6 @@ a.logo:hover{
         font-size: 20px; /* ======formerly 16px===== */
         font-weight: 300;
         line-height: 1.7;
-        margin-top: 6.5rem;
     }
 }
 .section-text-2 blockquote{
@@ -3106,6 +3105,19 @@ a.logo:hover{
     font-size: 20px; /* ======formerly 16px===== */
     font-weight: 300;
     line-height: 1.7;
+}
+.section-text-4{
+    font-size: 20px; /* ======formerly 16px===== */
+    font-weight: 300;
+    line-height: 1.7;
+}
+@media only screen and (max-width: 1024px) {
+    .section-text-4{
+        font-size: 20px; /* ======formerly 16px===== */
+        font-weight: 300;
+        line-height: 1.7;
+        margin-top: 6.5rem;
+    }
 }
 .section-bot-image{
     margin: 140px 0 -140px;
